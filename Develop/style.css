@@ -8,7 +8,7 @@ textarea{
   background: transparent;
   border: none;
   resize: none;
-  color: blue;
+  color: rgb(181, 181, 247);
   border-left: 1px solid black;
   padding: 10px;
 }
@@ -16,7 +16,7 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: red;
+  color: rgb(7, 174, 96);
   border-radius: 0;
   border-bottom: 10px solid black;
 }
@@ -37,9 +37,9 @@ textarea{
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: white;
   color: #000000;
-  border-top: 1px dashed #e041ce;
+  border-top: 1px dashed #000000;
 }
 
 .past {
@@ -48,13 +48,13 @@ textarea{
 }
 
 .present {
-  background-color: #bad652;
+  background-color: #ff6961;
   color: white;
 }
 
 .future {
   background-color: #77dd77;
-  color: rgb(168, 50, 123);
+  color: white;
 }
 
 .saveBtn {
